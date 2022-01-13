@@ -191,6 +191,7 @@ pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
+PySimpleGUI==4.56.0
 PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
 pytest==6.2.3
 python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
