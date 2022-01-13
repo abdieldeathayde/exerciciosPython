@@ -1,1 +1,0 @@
-Olá me chamo Abdiel de Athayde e o objetivo desse projeto é mostrar os exercicios que estou fazendo, pessoais, do psw(django e python) e Curso em video (Gustavo Guanabara Html5 e Css3)
